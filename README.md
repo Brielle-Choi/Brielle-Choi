@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Boeun Choi
+- 👋 
 - 👀 
 - 🌱 I’m currently learning git, java
 - 📫 How to reach me briechoi@gmail.com
